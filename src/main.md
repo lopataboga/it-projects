@@ -13,7 +13,7 @@ dictionary = {1: "Tom", 2: "Bob", 3: "Bill"}
 print(dictionary[1])
 ~~~
 
-## Методы словарей
+## Методы словарей - 
 
 > `dict.clear()` - очищает словарь.
 
